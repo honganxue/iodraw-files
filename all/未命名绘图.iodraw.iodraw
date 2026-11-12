@@ -16,8 +16,8 @@
         <mxCell id="uc8jsdLlGz0JYWN2lG9q-5" value="拉起支付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="158" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uc8jsdLlGz0JYWN2lG9q-7" value="服务端决策走自身支付还是支付工具app支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="160" height="80" as="geometry" />
+        <mxCell id="uc8jsdLlGz0JYWN2lG9q-7" value="服务端决策" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
